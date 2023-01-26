@@ -91,6 +91,7 @@ body {
   .mycontainer {
     display: flex;
     flex-direction: column;
+    margin: 5rem 1rem;
     margin-bottom: 2rem;
   }
 }
